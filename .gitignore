@@ -1,0 +1,21 @@
+# Ignore compiled files
+hospital.exe
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore build directories
+/build/
+bin/
+Debug/
+Release/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore VS Code settings
+.vscode/
